@@ -1,0 +1,17 @@
+{
+  "source_pdf": "https://s206.q4cdn.com/479360582/files/doc_financials/2024/q1/2024q1-alphabet-earnings-release-pdf.pdf",
+  "created_at": "2025-12-30T23:19:49.979073Z",
+  "embedding_model": "all-minilm:l12-v2",
+  "llm_model": "llama3.2:latest",
+  "similarity_top_k": 6,
+  "qa_pairs": [
+    {
+      "question": "What was Google's operating margin for 2024?",
+      "answer": "I can't find the operating margin for Google's 2024 in the provided tables."
+    },
+    {
+      "question": "What % Net income is of the Revenues?",
+      "answer": "To calculate the Net Income as a percentage of Revenues, we need to know both values.\n\nFrom Table 6: Q1 2024 Financial Highlights (unaudited), we can see that:\n\nRevenues = $80,539\nNet income = $23,662\n\nWe can now calculate the Net Income as a percentage of Revenues:\n\n(Net Income / Revenues) * 100%\n= ($23,662 / $80,539) * 100%\n≈ 29.5%\n\nTherefore, the Net Income is approximately 29.5% of Revenues."
+    }
+  ]
+}
